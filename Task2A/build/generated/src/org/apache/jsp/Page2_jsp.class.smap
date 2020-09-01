@@ -1,0 +1,24 @@
+SMAP
+Page2_jsp.java
+JSP
+*S JSP
+*F
++ 0 Page2.jsp
+Page2.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,26:50
+5#1,102:76
+107,3:179
+109,2:182
+111:184,3
+112,7:187
+119:194,3
+120,13:197
+30#0,220:210
+5#2,96:430
+249#0,20:526
+*E

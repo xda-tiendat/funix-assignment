@@ -1,0 +1,39 @@
+body{
+	font-size:20px;
+	background-color: #E8FAFE;
+	font-family: 'Montserrat', sans-serif;
+}
+.container {
+	width: 500px;
+	height: 510px;
+	margin: 200px auto;
+	background-color: #FFFFFF;
+	text-align: center;
+	
+	padding-top: 55px;
+	border: 1px solid;
+	border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
+	border-radius: 10px;
+}
+h2 {
+	font-size: 30px;
+}
+input {
+	width: 400px;
+	height: 70px;
+	font-size: 22px;
+	box-sizing: border-box;
+        padding-left: 15px;
+}
+input:hover {
+	border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
+}
+input[type=submit] {
+	color: white;
+	background-color: #4272D8;
+	margin-top: 25px;
+	border: none;
+}
+input[type=submit]:hover{
+	background-color: black;
+}
