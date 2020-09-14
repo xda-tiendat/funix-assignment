@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/model/Constants.java</file>
+            <file>file:/E:/Funix%20Task/Task4/web/UserInfor.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/web/Authoring.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/UserDetailController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/RegController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/web/PostOfAuthor.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/web/Posts.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/web/Register.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/PostController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/model/PostDAO.java</file>
+            <file>file:/E:/Funix%20Task/Task4/web/EditPost.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/web/Sources/page/header.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/RegisterController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/AddPostController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/ViewDetailController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/PostOfAuthorController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/web/PostDetail.jsp</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/UpdatePostController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/src/java/datbt/controller/LoginController.java</file>
+            <file>file:/E:/Funix%20Task/Task4/web/Sources/page/nav.jsp</file>
+        </group>
+    </open-files>
+</project-private>

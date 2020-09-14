@@ -1,0 +1,83 @@
+img {
+	height: 300px;
+	margin-top: 20px;
+	object-fit: cover;
+}
+
+.height100 {
+	height: 100%;
+}
+
+.middle {
+	transition: .5s ease;
+	opacity: 0;
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+	font-size: 22px;
+	background-color: gold;
+	color: red;
+}
+
+.height100:hover .middle {
+	opacity: 1;
+}
+
+.cover {
+	background-color: #63B8FF;
+	padding-top: 20px;
+}
+#banner {
+    padding: 100px 10%;
+    width: 100%;
+}
+@media screen and (min-width: 992px) {
+    nav {
+        background-color: white;
+    }
+    nav li a {
+        color: #696969;
+    }
+    #banner {
+        height: 400px;
+        color: #e0e0e0;
+        text-shadow: 2px 2px 5px black;
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://about.att.com/ecms/dam/snr/2019/June2019/StoryLevelBanner/6.11.19_906_Samsung_S10_5G_1_STORY_LEVEL_BANNER_1600x483.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    #banner h1 {
+        font-size: 42px;
+    }
+    #banner p {
+        color: #e0e0e0;
+    }
+    .column {
+        width: 33%;
+    }
+}
+@media screen and (max-width: 992px) {
+    nav {
+        background-color: #696969;
+    }
+    nav li a {
+        color: #e0e0e0;
+    }
+    #banner {
+        height: 200px;
+        color: #313131;
+        text-shadow: none;
+        background: none;
+        border-bottom: #e0e0e0 solid 1px;
+    }
+    #content {
+        background: none;
+    }
+    footer {
+        background: none;
+    }
+}

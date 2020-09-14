@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 1, 2020, 8:35:18 PM
+    Author     : xdati
+*/
+body {
+    background-color: rgb(27,138,241);
+    font-size: 18px;
+}
+.cover {
+    width: 450px;
+    height: auto;
+    margin: 100px auto;
+    border: 1px solid aqua;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(255,255,255);
+    padding-bottom: 75px;
+}
+.logo {
+    width: 150px;
+    height: 100px;
+    margin: 5px auto;
+    border-radius: 100%;
+}
+img {
+    max-width: 150px;
+    max-height: 100px;
+    object-fit: cover;
+    
+}
+input {
+    width: 380px;
+    height: 50px;
+    margin-bottom: 10px;    
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 380px;
+    height: 50px;
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(27,138,241);
+    font-size: 20px;
+    color: white;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+span {
+    color: red;
+    font-size: 15px;
+}
